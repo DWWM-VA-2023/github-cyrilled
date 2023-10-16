@@ -1,2 +1,1 @@
-# github-cyrilled
 Hello world
